@@ -149,7 +149,7 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-<img src="image-1.png" alt="out1.jpg">
+<img src="![image](https://github.com/user-attachments/assets/10144557-26b9-4206-9d01-ea306fe8009d)" alt="out1.jpg">
 
 <hr>
 <h2>Sample Graph II</h2>
