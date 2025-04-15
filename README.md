@@ -106,7 +106,8 @@ goal=input()
 aStarAlgo(start, goal)
 </code></pre>
 
-<image src="image.png"></image>
+![image](https://github.com/user-attachments/assets/cf510746-23d0-4ebb-a989-af6a574cbeff)
+
 
 
 <hr>
